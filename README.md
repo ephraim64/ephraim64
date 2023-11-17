@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ephraim64
 - 👀 I’m interested in coding and developing 
-- 🌱 I’m currently learning machine learning
+- 🌱 I’m currently learning machine learning and ethical hacking
 - 💞️ I’m looking to collaborate on new projects
 - 📫 How to reach me tettehephraim.64@gmail.com
 
