@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ephraim64
+- 👋 Hi, I’m @ephraim_tetteh
 - 👀 I’m interested in coding and developing 
 - 🌱 I’m currently learning machine learning and ethical hacking
 - 💞️ I’m looking to collaborate on new projects
