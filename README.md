@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ephraim_tetteh
-- 👀 I’m interested in coding and developing 
-- 🌱 I’m currently learning machine learning and ethical hacking
+- 👀 I’m love coding and developing 
+- 🌱 I’m a full stack software developer and a machine learning engineer
 - 💞️ I’m looking to collaborate on new projects
 - 📫 How to reach me tettehephraim.64@gmail.com
 
